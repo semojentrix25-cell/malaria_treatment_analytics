@@ -13,9 +13,8 @@ This project analyzes malaria treatment data to evaluate treatment adherence, me
 - Power BI
 
 ## Workflow
-
-1. Data Profiling
-2. Data Cleaning
+1. Data Cleaning
+2. Data Profiling
 3. Exploratory Data Analysis
 4. Feature Engineering
 5. KPI Development
