@@ -8,17 +8,20 @@ The objective is to support healthcare professionals and program managers in mon
 
 ---
 
-#  Dashboard Preview
+## 📊 Dashboard Preview
 
-Dashboard screenshots are available in the **images/** directory and demonstrate the following analytical views:
+### Executive Overview
+![Executive Overview](images/Trearment%20program_Executive%20Overview.png)
 
-* Treatment progam_Executive Overview
-* Treatment Adherence
-* Exposure Analysis
-* Data Quality
-* Treatment Activity Trends
-* Insights & Recommendations
+### Treatment Adherence Analysis
+![Treatment Adherence Analysis](images/Treatment%20Adherence%20Analysis.png)
 
+### Data Quality Assessment
+![Data Quality Assessment](images/Data%20Quality%20Assessment.png)
+
+>  Additional dashboard views (Exposure Analysis, Treatment Trends, 
+> Key Insights, Strategic Recommendations) are available in the 
+> [`images/`](images/) folder.
 ---
 
 ##  Business Problem
@@ -67,8 +70,8 @@ Each record represents a medication administration event for a participant under
 
 The project follows a structured healthcare analytics pipeline:
 
-1. Data Profiling
-2. Data Cleaning
+1. Data cleaning
+2. Data profiling
 3. Exploratory Data Analysis (EDA)
 4. Feature Engineering
 5. KPI Development
@@ -144,7 +147,7 @@ The analysis identified several important operational insights:
 * Treatment protocol completion rate was **75.9% indicating high adherence to medication**
 * 1.54% of participants had an extended treatment beyond the 4 dose standard protocol 
 * Medication exposure varied across participants, indicating the importance of exposure monitoring.
-* Documentation completeness was generally high with 74.1% although 25.9 missing treatment end dates affected a portion of the records.
+* Documentation completeness was generally high with 74.1% although 25.9% missing treatment end dates affected a portion of the records.
 * Participant-level KPIs enabled more meaningful operational reporting than dose-level summaries alone.
 
 ---
@@ -189,6 +192,7 @@ malaria_treatment_analytics/
 │   └── insights_recommendations.png
 │
 └── sql/
+    └── README.md           
 ```
 
 ---
@@ -216,19 +220,6 @@ pip install -r requirements.txt
 * 05_kpi_development
 
 6. Refresh the Power BI dashboard to load the latest data from PostgreSQL.
-
----
-
-#  Dashboard Preview
-
-Dashboard screenshots are available in the **images/** directory and demonstrate the following analytical views:
-
-* Executive Overview
-* Treatment Adherence
-* Exposure Analysis
-* Data Quality
-* Treatment Activity Trends
-* Insights & Recommendations
 
 ---
 
