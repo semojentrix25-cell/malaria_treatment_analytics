@@ -11,7 +11,7 @@ The objective is to support healthcare professionals and program managers in mon
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](image/Trearment%20program_Executive%20Overview.png)
+![Executive Overview](image/Treatment%20program_Executive%20Overview.png)
 
 ### Treatment Adherence Analysis
 ![Treatment Adherence Analysis](image/Treatment%20Adherence%20Analysis.png)
