@@ -11,17 +11,17 @@ The objective is to support healthcare professionals and program managers in mon
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/Trearment%20program_Executive%20Overview.png)
+![Executive Overview](image/Trearment%20program_Executive%20Overview.png)
 
 ### Treatment Adherence Analysis
-![Treatment Adherence Analysis](images/Treatment%20Adherence%20Analysis.png)
+![Treatment Adherence Analysis](image/Treatment%20Adherence%20Analysis.png)
 
 ### Data Quality Assessment
-![Data Quality Assessment](images/Data%20Quality%20Assessment.png)
+![Data Quality Assessment](image/Data%20Quality%20Assessment.png)
 
 >  Additional dashboard views (Exposure Analysis, Treatment Trends, 
 > Key Insights, Strategic Recommendations) are available in the 
-> [`images/`](images/) folder.
+> [`image/`](image/) folder.
 ---
 
 ##  Business Problem
