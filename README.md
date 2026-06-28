@@ -1,4 +1,4 @@
-# 🦟 Malaria Treatment Analytics Dashboard
+#  Malaria Treatment Analytics Dashboard
 
 ##  Project Overview
 
@@ -8,7 +8,7 @@ The objective is to support healthcare professionals and program managers in mon
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Overview
 ![Executive Overview](image/Treatment%20program_Executive%20Overview.png)
