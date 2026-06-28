@@ -50,6 +50,9 @@ This project addresses key questions such as:
 
 Each record represents a medication administration event for a participant undergoing malaria treatment.
 
+> **Note:** All participant data has been anonymized. No personally 
+> identifiable information is included in this repository.
+
 ---
 
 #  Technology Stack
