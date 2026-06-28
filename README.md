@@ -1,5 +1,11 @@
 #  Malaria Treatment Analytics Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
+
 ##  Project Overview
 
 This project demonstrates an end-to-end healthcare analytics workflow developed to analyze longitudinal malaria treatment administration data. The analysis transforms raw clinical records into meaningful operational insights through data cleaning, exploratory data analysis (EDA), feature engineering, KPI development, SQL integration, and interactive dashboard visualization in Power BI.
